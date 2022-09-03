@@ -3,4 +3,4 @@ PyYAML
 Jinja2
 httplib2
 ansible==1.9.1
-boto==2.34.0
+boto==2.39.0
