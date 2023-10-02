@@ -152,7 +152,7 @@
     <jersey.version>2.22</jersey.version>
     <jetty.version>9.2.16.v20160414</jetty.version>
     <junit.version>4.12</junit.version>
-    <libthrift.version>0.9.3</libthrift.version>
+    <libthrift.version>0.17.0</libthrift.version>
     <license.header.path>build/license/</license.header.path>
     <log4j.version>1.2.17</log4j.version>
     <maven.version>3.3.9</maven.version>
@@ -160,7 +160,7 @@
     <powermock.version>1.6.1</powermock.version>
     <protobuf.version>2.5.0</protobuf.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <slf4j.version>1.7.2</slf4j.version>
+    <slf4j.version>1.7.34</slf4j.version>
     <surefire.forkCount>2</surefire.forkCount>
     <surefire.useSystemClassLoader>true</surefire.useSystemClassLoader>
     <test.output.redirect>true</test.output.redirect>
@@ -513,7 +513,7 @@
       <dependency>
         <groupId>org.apache.zookeeper</groupId>
         <artifactId>zookeeper</artifactId>
-        <version>3.4.6</version>
+        <version>3.5.10</version>
       </dependency>
       <dependency>
         <groupId>org.codehaus.jackson</groupId>
