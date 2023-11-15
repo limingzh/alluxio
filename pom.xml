@@ -156,7 +156,7 @@
     <license.header.path>build/license/</license.header.path>
     <log4j.version>1.2.17</log4j.version>
     <maven.version>3.3.9</maven.version>
-    <metrics.version>3.1.2</metrics.version>
+    <metrics.version>4.0.6</metrics.version>
     <powermock.version>1.6.1</powermock.version>
     <protobuf.version>2.5.0</protobuf.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -312,7 +312,7 @@
       <dependency>
         <groupId>io.netty</groupId>
         <artifactId>netty-all</artifactId>
-        <version>4.0.29.Final</version>
+        <version>4.1.44.Final</version>
       </dependency>
       <dependency>
         <groupId>javax.ws.rs</groupId>
